@@ -12,7 +12,6 @@
   {
     "name": "Personal Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "/assets/images/projects/portfolio1.png",
     "category": "Software Development",
     "links": {
       "view": "#",
@@ -22,7 +21,6 @@
   {
     "name": "Sai Sudha lawns Landing Page",
     "desc": "Responsive landing page created by using bootstrap5",
-    "image": "./assets/images/projects/saisudha.png",
     "category": "basicweb",
     "links": {
       "view": "#",
