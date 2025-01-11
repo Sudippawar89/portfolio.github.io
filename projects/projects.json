@@ -2,7 +2,7 @@
   {
     "name": "Balaji Law College",
     "desc": "Crafted for seamless navigation and boundless creativity, our landing page is your gateway to digital excellence.",
-    "image": "./assets/images/projects/Balajilawlp.png",
+    "image": "assets/images/projects/Balajilawlp.png",
     "category": "Software Development",
     "links": {
       "view": "https://balajilaw.edu.in/",
@@ -13,7 +13,7 @@
   {
     "name": "Personal Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "./assets/images/projects/portfolio1.png",
+    "image": "/assets/images/projects/portfolio1.png",
     "category": "Software Development",
     "links": {
       "view": "#",
